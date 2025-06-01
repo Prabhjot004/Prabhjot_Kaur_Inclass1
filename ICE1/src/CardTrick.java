@@ -29,8 +29,8 @@ public class CardTrick {
         }
         
         Card luckyCard = new Card();
-        //CHANGE LUCKYCARD VALUE TO 8
-        luckyCard.setValue(8);
+        //CHANGE LUCKYCARD VALUE TO 12
+        luckyCard.setValue(12);
         luckyCard.setSuit("Diamonds");
         
         boolean found = false;
